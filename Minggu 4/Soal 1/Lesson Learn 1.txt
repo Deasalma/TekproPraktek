@@ -1,0 +1,4 @@
+Lesson Learn
+- Memahami penggunaan access modifier public dan private
+- Memahami cara menggunakan variabel yang di berikan access private agar bisa dilakukan perubahan pada class lain dengan menggunakan enkapsulasi
+- Memahami penggunaan Aksesor sebagai pengakses nilai dan mutator sebagai pengubah nilai

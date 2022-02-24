@@ -1,0 +1,3 @@
+Lesson Learn
+Memahami pengaksesan variabel yang tidak memakai kata kuci this dan yang memakai kata kunci this, 
+dimana variabel yang diberkan kata kunci this akan mengacu pada variabel yang berada dalam class yang mendeklarasikannya.

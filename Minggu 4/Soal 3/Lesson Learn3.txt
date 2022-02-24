@@ -1,0 +1,4 @@
+Lesson Learn
+Memahami urutan dari setiap instruksi yang dilakukan, 
+sepemahaman saya yang pertama kali dilakukan adalah instruksi pada main yang memiliki class yang sama secara sequential, 
+dilanjut oleh blok static, kemudiak blok inisialisasi, dan terakhir constructur
